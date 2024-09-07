@@ -6,7 +6,8 @@ You can choose one module from the list below:-
 
 Hemavathi AB
 Course 01 : Data science role requires you to know how to work with GIT and GITHUB. 
-git add .
+git add 
+git push origin Course1
 
 Pawan Dubey
 Dynamic Programming
